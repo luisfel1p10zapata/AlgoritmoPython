@@ -12,3 +12,5 @@ def ejercicio1():
     print(f"La cantidad de números pares es: {pares}")
     print(f"La cantidad de números impares es: {impares}")
     print(f"La suma de los números pares es: {suma_pares}")
+
+    
