@@ -9,9 +9,9 @@ def mostrar_menu():
     print("\n========== MENU DE EJERCICIOS ==========")
     print("1. Conteo de pares e impares")
     print("2. Ejercicio del integrante 2")
-    print("3. Ejercicio del integrante 3")
+    print("3. Buscar nombres")
     print("4. Ejercicio del integrante 4")
-    print("5. Ejercicio del integrante 5")
+    print("5. Adivina el numero secreto")
     print("0. Salir")
     print("========================================")
 
