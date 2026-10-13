@@ -10,7 +10,7 @@ def mostrar_menu():
     print("1. Conteo de pares e impares")
     print("2. Ejercicio del integrante 2")
     print("3. Buscar nombres")
-    print("4. Ejercicio del integrante 4")
+    print("4. Identificar numero mayor y menor")
     print("5. Adivina el numero secreto")
     print("0. Salir")
     print("========================================")
