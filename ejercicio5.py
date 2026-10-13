@@ -1,3 +1,4 @@
+
 import random
 
 def ejercicio5():
@@ -18,4 +19,5 @@ def ejercicio5():
             print("el numero es mayor al indicado")
     else:
         print(f"te haz quedado sin intentos; el numero era {entero}")
+
 
